@@ -1,0 +1,19 @@
+body{
+	background-color: pink;
+	text-align: center;
+    }
+
+#title{
+	color: orange;
+	font-size: 60px;
+}
+
+.subtitle{
+	color: blue;
+	font-size: 40px;
+}
+
+.p{
+	color: red;
+	font-size: 30px;
+}
